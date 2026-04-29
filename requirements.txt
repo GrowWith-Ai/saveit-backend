@@ -1,0 +1,10 @@
+flask
+flask-cors
+yt-dlp
+google-generativeai
+requests
+openai-whisper
+torch
+numpy
+ffmpeg-python
+gunicorn
